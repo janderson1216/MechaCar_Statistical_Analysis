@@ -18,4 +18,8 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
   Currently the manufactoring lots in total meet this design specification with a mean variance of 62.3. However, Manufactoring Lot 3 has a mean variance in PSI's of 170.2. 
   
-  
+## T-Tests on Suspension Coils
+
+The data above determines if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch. Lots 1 and 2 have p-valoues greater than .05, meaning there is no statistical difference. Lot 3 has a a p-value of .04 which means there is a difference between lot 3 and the population mean. This is confirmed by the mean of x being listed at 1496.14. 
+
+
