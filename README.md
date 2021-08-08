@@ -12,6 +12,8 @@
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
   The p-value is much lower than .05 and the multiple R-Squared is .7, therefore we can determine that future data points are likely to follow the linear model.
+  
+  ![Del_2](Resources/Del_2.png)
 
 ## Summary Statistics on Suspension Coils
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
@@ -21,6 +23,10 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ## T-Tests on Suspension Coils
 
 The data above determines if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch. Lots 1 and 2 have p-valoues greater than .05, meaning there is no statistical difference. Lot 3 has a a p-value of .04 which means there is a difference between lot 3 and the population mean. This is confirmed by the mean of x being listed at 1496.14. 
+
+![Lot_1](Resources/Lot_1.png)
+![Lot_2](Resources/Lot_2.png)
+![Lot_3](Resources/Lot_3.png)
 
 
 ## Study Design: MechaCar vs Competition
