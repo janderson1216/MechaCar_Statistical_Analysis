@@ -23,3 +23,5 @@ The design specifications for the MechaCar suspension coils dictate that the var
 The data above determines if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch. Lots 1 and 2 have p-valoues greater than .05, meaning there is no statistical difference. Lot 3 has a a p-value of .04 which means there is a difference between lot 3 and the population mean. This is confirmed by the mean of x being listed at 1496.14. 
 
 
+## Study Design: MechaCar vs Competition
+The study will look at the initial cost and maintainance cost of MechaCar vs its competitors. The study will first us linear regression see if there is a relationship between initial cost of the vehicle and the maintance cost. The null hypothesis is vehicle cost does not impact maintainance cost. If the study finds you are able to predict maintainance cost based on initial car cost, we will compare MechaCar's linear model with its competitors. 
